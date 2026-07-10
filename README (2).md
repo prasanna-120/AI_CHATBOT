@@ -217,7 +217,7 @@ This project is released under the MIT License.
 
 # Author
 
-**Lakshman Ulli**
+**PRASANNA**
 
 * Aspiring Data Scientist
 * Full Stack Developer
